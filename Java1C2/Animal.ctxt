@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=Animal()
+comment2.params=t
+comment2.target=Animal(long)
+comment3.params=v
+comment3.target=Animal(int)
+comment4.params=
+comment4.target=void\ mananca()
+comment5.params=
+comment5.target=int\ getVarsta()
+numComments=6
