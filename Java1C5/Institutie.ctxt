@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Institutie
+comment1.params=
+comment1.target=Institutie()
+comment2.params=nume\ adresa
+comment2.target=Institutie(java.lang.String,\ java.lang.String)
+numComments=3

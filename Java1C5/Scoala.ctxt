@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scoala
+comment1.params=nume\ adresa\ elevi\ numeDirector
+comment1.target=Scoala(java.lang.String,\ java.lang.String,\ Elev[],\ java.lang.String)
+comment2.params=director
+comment2.target=void\ setDirector(Director)
+comment3.params=
+comment3.target=Director\ getDirector()
+numComments=4
