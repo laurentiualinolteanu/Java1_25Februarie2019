@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=
+comment1.target=Casa()
+comment2.params=suprafata
+comment2.target=Casa(double)
+comment3.params=
+comment3.target=double\ calculeazaPerimetru()
+comment4.params=
+comment4.target=boolean\ areAsigurare()
+numComments=5

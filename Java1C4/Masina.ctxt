@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=culoare\ marca
+comment1.target=Masina(java.lang.String,\ Marca)
+comment2.params=
+comment2.target=java.lang.String\ getCuloare()
+comment3.params=
+comment3.target=java.lang.String\ getNumeMarca()
+comment3.text=public\ Marca\ getMarca()\ {\r\n\ \ \ \ \ \ \ \ return\ this.marca;\r\n}
+numComments=4

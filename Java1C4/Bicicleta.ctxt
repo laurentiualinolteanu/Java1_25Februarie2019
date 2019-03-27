@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=
+comment1.target=Bicicleta()
+comment2.params=nrPedale
+comment2.target=Bicicleta(int)
+numComments=3
