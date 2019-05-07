@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Entry
+comment1.params=name\ mark
+comment1.target=Entry(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getMark()
+comment5.params=mark
+comment5.target=void\ setMark(java.lang.Object)
+comment6.params=val
+comment6.target=java.lang.Object\ getMaxMark(java.lang.Object)
+comment7.params=t\ v
+comment7.target=int\ getValue(java.lang.Object,\ java.lang.Object)
+numComments=8

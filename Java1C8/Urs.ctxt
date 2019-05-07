@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Urs
+comment1.params=
+comment1.target=java.lang.Object\ getHrana()
+comment2.params=
+comment2.target=void\ getTip()
+comment3.params=hrana
+comment3.target=void\ accept(java.lang.Object)
+numComments=4
