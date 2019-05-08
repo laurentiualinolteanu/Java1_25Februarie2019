@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CentruDeInchiriere
+comment1.params=
+comment1.target=CentruDeInchiriere()
+comment2.params=
+comment2.target=CentruDeInchiriere\ getInstance()
+comment3.params=v
+comment3.target=void\ adaugaVehicul(Vehicul)
+comment4.params=
+comment4.target=void\ afiseazaVehicule()
+comment5.params=
+comment5.target=void\ afiseazaVehiculeDisponibile()
+comment6.params=i
+comment6.target=void\ stergeVehicul(int)
+numComments=7

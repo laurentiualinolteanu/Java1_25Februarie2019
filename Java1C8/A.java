@@ -1,3 +1,4 @@
-public class A <T extends Integer>{
+public class A<T>
+{
     
 }

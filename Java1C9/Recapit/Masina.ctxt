@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=marca\ pret\ disponibilitate\ combustibil
+comment1.target=Masina(java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment2.params=combustibil
+comment2.target=void\ setCombustibil(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCombustibil()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
