@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vehicul
+comment1.params=marca\ pret\ disponibilitate
+comment1.target=Vehicul(java.lang.String,\ int,\ boolean)
+comment2.params=marca
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMarca()
+comment4.params=pret
+comment4.target=void\ setPret(int)
+comment5.params=
+comment5.target=int\ getPret()
+comment6.params=disponibilitate
+comment6.target=void\ setDisponibilitate(boolean)
+comment7.params=
+comment7.target=boolean\ getDisponibilitate()
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CentruDeInchiriere
+comment1.params=
+comment1.target=CentruDeInchiriere()
+comment2.params=
+comment2.target=CentruDeInchiriere\ getInstance()
+comment3.params=
+comment3.target=int\ getNrVehicule()
+comment4.params=v
+comment4.target=void\ adaugaVehicul(Vehicul)
+comment5.params=
+comment5.target=void\ afiseazaVehicule()
+comment6.params=
+comment6.target=void\ afiseazaVehiculeDisponibile()
+comment7.params=i
+comment7.target=void\ stergeVehicul(int)
+comment8.params=marca
+comment8.target=void\ getPrimulVehiculDisponibilDupaMarca(java.lang.String)
+numComments=9
